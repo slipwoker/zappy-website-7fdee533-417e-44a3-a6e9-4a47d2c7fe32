@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://sapirmalkapaintings-7fdee533.zappy5.app
+https://example.com
 מחפשים מתנה מיוחדת ציור מקורי? באתר של ספיר מלכה תוכלו להזמין בקלות דרך וואטסאפ בלחיצת כפתור. ציורים לעיצוב הבית שמשדרים יופי ורגש. התחילו לשוחח ולהזמין עכשיו!
 
 ### איך להזמין
-https://sapirmalkapaintings-7fdee533.zappy5.app/how-to-order
+https://example.com/how-to-order
 רוצים ציורים לעיצוב הבית שיגיעו עד אליכם? גלו איך להזמין מספיר מלכה בשני צעדים פשוטים דרך וואטסאפ. כל התהליך מהיר, אישי ונוח. לחצו כאן כדי להתחיל בהזמנה חכמה!
 
 ### אודות האמן
-https://sapirmalkapaintings-7fdee533.zappy5.app/about
+https://example.com/about
 ספיר מלכה יוצרת ציורים מקוריים למכירה ישראל שמביאים השראה לכל חלל. קראו על הסיפור, התשוקה והחזון מאחורי כל יצירה. מתנה מיוחדת ציור מקורי מחכה לכם, בואו להתרשם!
 
 ### צור קשר
-https://sapirmalkapaintings-7fdee533.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על ציורים לעיצוב הבית או רוצים להזמין מתנה מיוחדת ציור מקורי? צרו קשר ישיר עם ספיר מלכה בוואטסאפ ותקבלו מענה מהיר ואישי. הקליקו לפתיחת שיחה וקבלו את היצירה המושלמת!
 
 ### Products
-https://sapirmalkapaintings-7fdee533.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - SapirMalkaPaintings
 
 ### Product Detail
-https://sapirmalkapaintings-7fdee533.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - SapirMalkaPaintings
 
 ### Category
-https://sapirmalkapaintings-7fdee533.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - SapirMalkaPaintings
 
 ### תודה על פנייתך
-https://sapirmalkapaintings-7fdee533.zappy5.app/thank-you
+https://example.com/thank-you
 SapirMalkaPaintings - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://sapirmalkapaintings-7fdee533.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://sapirmalkapaintings-7fdee533.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://sapirmalkapaintings-7fdee533.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -80,8 +80,8 @@ General Business / Orders
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://sapirmalkapaintings-7fdee533.zappy5.app/sitemap.xml
-- Robots: https://sapirmalkapaintings-7fdee533.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://sapirmalkapaintings-7fdee533.zappy5.app/llms-full.txt
-- Products (JSON): https://sapirmalkapaintings-7fdee533.zappy5.app/products.json
-- Products (Google Merchant RSS): https://sapirmalkapaintings-7fdee533.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
